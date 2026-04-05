@@ -12,7 +12,7 @@ Lagos, Nigeria · Open to Remote & Relocation
 
 ## Summary
 
-Fullstack Blockchain Engineer with end-to-end ownership across smart contract architecture, backend blockchain infrastructure, and Web3 authentication. I build complete decentralized systems — from gas-optimized Solidity contracts and DeFi protocol integrations to production-grade transaction services, event indexers, and wallet-based auth backends. Open to remote and relocation.
+Fullstack Blockchain Engineer with end-to-end ownership across smart contract architecture, backend blockchain infrastructure, and Web3 authentication. I build complete decentralized systems from gas-optimized Solidity contracts and DeFi protocol integrations to production-grade transaction services, event indexers, and wallet-based auth backends. Open to remote and relocation.
 
 ---
 
@@ -31,7 +31,7 @@ Fullstack Blockchain Engineer with end-to-end ownership across smart contract ar
 
 ## Projects
 
-### VaultX — Multi-Round Presale & Vesting Protocol
+### VaultX : Multi-Round Presale & Vesting Protocol
 `Solidity` `Foundry` `Hardhat` `OpenZeppelin` `Node.js` `ethers.js`
 
 - Designed and deployed a full token sale system with tiered presale rounds (Pre-Seed, Seed, Public), Merkle-proof whitelisting, and cliff-plus-linear vesting, supporting a combined raise capacity of $5M across 3 investor tiers.
@@ -40,7 +40,7 @@ Fullstack Blockchain Engineer with end-to-end ownership across smart contract ar
 
 ---
 
-### TxManager — Production EVM Transaction Infrastructure
+### TxManager : Production EVM Transaction Infrastructure
 `Node.js` `TypeScript` `BullMQ` `Redis` `ethers.js v6` `Pino` `PostgreSQL`
 
 - Built an end-to-end transaction lifecycle service covering submission, state tracking, stuck detection, dynamic gas bumping, rebroadcasting, and a dead letter queue for unrecoverable failures.
@@ -49,7 +49,7 @@ Fullstack Blockchain Engineer with end-to-end ownership across smart contract ar
 
 ---
 
-### DeFiShield — Lending Protocol with Integrated Audit
+### DeFiShield : Lending Protocol with Integrated Audit
 `Solidity` `Foundry` `Chainlink` `Slither` `Node.js` `The Graph`
 
 - Architected a full collateralized lending protocol in Solidity with dynamic interest rate models, Chainlink oracle integration, and a liquidation engine supporting 4 collateral assets with 99.8% liquidation accuracy.
@@ -90,4 +90,4 @@ Federal University Oye-Ekiti · 2020 — 2026
 
 ---
 
-*Available for Smart Contract Engineer, Backend Blockchain Engineer, and Security Auditor roles — remote or relocation-ready.*
+*Available for Smart Contract Engineer, Backend Blockchain Engineer, and Security Auditor roles, remote or relocation-ready.*
