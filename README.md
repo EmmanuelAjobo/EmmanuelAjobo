@@ -5,8 +5,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ajobo)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://upwork.com)
-[![Code4rena](https://img.shields.io/badge/Code4rena-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://code4rena.com)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Code4rena](https://img.shields.io/badge/Code4rena-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://code4rena.com/@techdev)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](ajoboemmanuel04@gmail.com)
 
 </div>
 
