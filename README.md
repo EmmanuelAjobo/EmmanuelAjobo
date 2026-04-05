@@ -24,7 +24,7 @@ My work spans three layers:
 
 I care about writing contracts that are not just functional but provably safe and economically resilient.
 
-📄 [View my Resume](./resume.md)
+📄 [View my Resume](./Resume.md)
 ---
 
 ## Tech Stack
