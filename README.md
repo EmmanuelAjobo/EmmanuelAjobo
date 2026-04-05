@@ -101,6 +101,7 @@ Collateralized lending protocol supporting multiple ERC-20 assets with dynamic i
 ## GitHub Stats
  
 <div align="center">
+ 
 ![Emmanuel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EmmanuelAjobo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmmanuelAjobo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8)
