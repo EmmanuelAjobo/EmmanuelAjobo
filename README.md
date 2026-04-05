@@ -62,7 +62,7 @@ I care about writing contracts that are not just functional but provably safe an
 
 ## Featured Projects
 
-### VaultX — Multi-Round Presale & Vesting Protocol
+### VaultX : Multi-Round Presale & Vesting Protocol
 > Solidity · Foundry · OpenZeppelin · Merkle Trees · Hardhat
 
 A production-grade token sale system with tiered presale rounds (Pre-Seed, Seed, Public), Merkle-proof whitelisting, and cliff-plus-linear vesting. Core `buyTokens()` function achieves sub-150k gas through tight storage packing and read optimization.
@@ -71,7 +71,7 @@ A production-grade token sale system with tiered presale rounds (Pre-Seed, Seed,
 
 ---
 
-### TxManager — EVM Transaction Lifecycle Service
+### TxManager : EVM Transaction Lifecycle Service
 > Node.js · TypeScript · BullMQ · Redis · ethers.js v6 · Pino
 
 Production backend service covering EVM transaction submission, confirmation tracking, stuck detection, adaptive gas bumping, rebroadcasting, and a dead letter queue. Structured Pino logging with full observability across all transaction states.
@@ -80,7 +80,7 @@ Production backend service covering EVM transaction submission, confirmation tra
 
 ---
 
-### LendCore — DeFi Lending Protocol
+### LendCore : DeFi Lending Protocol
 > Solidity · Foundry · Chainlink · OpenZeppelin
 
 Collateralized lending protocol supporting multiple ERC-20 assets with dynamic interest rate models, Chainlink oracle price feeds with TWAP fallback, and a liquidation engine validated through 15,000 fuzz iterations.
