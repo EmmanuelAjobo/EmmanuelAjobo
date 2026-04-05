@@ -18,9 +18,9 @@ I build and secure decentralized systems on Ethereum and EVM-compatible chains �
 
 My work spans three layers:
 
-- **Smart Contracts** — gas-optimized Solidity, audited before deployment, covering token infrastructure, DeFi primitives, presale systems, staking, and governance
-- **Backend Blockchain Infrastructure** — transaction lifecycle management, on-chain event indexing, RPC management, and job queues that keep on-chain products running reliably
-- **Security** — competitive auditor on Code4rena, identifying critical and high-severity vulnerabilities across DeFi, NFT, and governance protocols
+- **Smart Contracts**: gas-optimized Solidity, audited before deployment, covering token infrastructure, DeFi primitives, presale systems, staking, and governance
+- **Backend Blockchain Infrastructure**: transaction lifecycle management, on-chain event indexing, RPC management, and job queues that keep on-chain products running reliably
+- **Security**: competitive auditor on Code4rena, identifying critical and high-severity vulnerabilities across DeFi, NFT, and governance protocols
 
 I care about writing contracts that are not just functional but provably safe and economically resilient.
 
@@ -99,13 +99,15 @@ Collateralized lending protocol supporting multiple ERC-20 assets with dynamic i
 ---
 
 ## GitHub Stats
-
+ 
 <div align="center">
-
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAjobo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAjobo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1)
-
+ 
+![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAjobo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true)
+ 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAjobo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8)
+ 
+![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelAjobo&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
+ 
 </div>
 
 ---
