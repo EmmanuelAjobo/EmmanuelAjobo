@@ -14,7 +14,7 @@
 
 ## About Me
 
-I build and secure decentralized systems on Ethereum and EVM-compatible chains — end to end.
+I build and secure decentralized systems on Ethereum and EVM-compatible chains end to end.
 
 My work spans three layers:
 
