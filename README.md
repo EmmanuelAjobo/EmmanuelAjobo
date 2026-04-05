@@ -101,11 +101,10 @@ Collateralized lending protocol supporting multiple ERC-20 assets with dynamic i
 ## GitHub Stats
  
 <div align="center">
- 
-![Emmanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmmanuelAjobo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true)
- 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelAjobo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8)
- 
+![Emmanuel's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=EmmanuelAjobo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=EmmanuelAjobo&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelAjobo&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1)
  
 </div>
