@@ -3,10 +3,10 @@
 
 Lagos, Nigeria · Open to Remote & Relocation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ajobo)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Code4rena](https://img.shields.io/badge/Code4rena-000000?style=flat-square&logo=ethereum&logoColor=white)](https://code4rena.com/profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/emmanuel-ajobo)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01c9b7162a904d6197?mp_source=share)
+[![Code4rena](https://img.shields.io/badge/Code4rena-000000?style=for-the-badge&logo=ethereum&logoColor=white)](https://code4rena.com/@techdev)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](ajoboemmanuel04@gmail.com)
 
 ---
 
